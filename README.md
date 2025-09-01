@@ -12,8 +12,7 @@
 ### Devices
 #### SBCs
 - Milk-V Mars CM eMMC
-- Milk-V DuoS
-- OrangePi CM4
+- LicheePi 4A (from rv2036/riscv-board-wandering, thanks)
 
 <!--
 **ngc7331/ngc7331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
