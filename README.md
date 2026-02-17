@@ -1,8 +1,8 @@
 ## Hello world 👋
 ### Stats
-[![xu_zh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngc7331&count_private=true&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![xu_zh's GitHub stats](https://github-readme-stats-eight-psi-84.vercel.app/api?username=ngc7331&card_width=440&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngc7331&layout=compact&locale=cn&card_width=440&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-psi-84.vercel.app/api/top-langs/?username=ngc7331&layout=compact&card_width=440&langs_count=8&exclude_repo=UCAS-CA-2022,UCAS-ACA-2025,ysyxSoC)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Description
 - Student
