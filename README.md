@@ -6,13 +6,14 @@
 
 ### Description
 - Student
-- RISC-V enthusiast & HW developer
-- Docker enthusiast
+- RISC-V enthusiast
+- RISC-V HW developer @ XiangShan
 
 ### Devices
 #### SBCs
-- Milk-V Mars CM eMMC
-- LicheePi 4A (from rv2036/riscv-board-wandering, thanks)
+- Milk-V Mars CM eMMC (jh7110)
+- LicheePi 4A (th1520) (from rv2036/riscv-board-wandering, thanks)
+- Spacemit Muse Pi Pro (k1)
 
 <!--
 **ngc7331/ngc7331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
